@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="colorPrimary" type="color" format="color">#FF6200EE</item>
+    <item name="colorPrimaryVariant" type="color" format="color">#FF3700B3</item>
+    <item name="colorOnPrimary" type="color" format="color">#FFFFFFFF</item>
+    <item name="colorSecondary" type="color" format="color">#FF03DAC5</item>
+    <item name="colorSecondaryVariant" type="color" format="color">#FF018786</item>
+    <item name="colorOnSecondary" type="color" format="color">#FF000000</item>
+    <item name="android:statusBarColor" type="color" format="color">@color/purple_700</item>
+</resources>
